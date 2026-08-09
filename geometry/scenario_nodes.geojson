@@ -1,0 +1,258 @@
+{
+  "type": "FeatureCollection",
+  "name": "scenario_nodes",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "SCN-001",
+      "properties": {
+        "id": "SCN-001",
+        "layer": "SCENARIO_NODES",
+        "scenario_id": "SC1",
+        "name_zh": "自动驾驶接驳测试",
+        "location_zh": "众智园-原点社区",
+        "source_type": "conceptual_design_proposal",
+        "confidence": "low",
+        "geometry_role": "design_proposal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.34949999999999,
+          39.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCN-002",
+      "properties": {
+        "id": "SCN-002",
+        "layer": "SCENARIO_NODES",
+        "scenario_id": "SC2",
+        "name_zh": "机器人配送试点",
+        "location_zh": "原点社区500m",
+        "source_type": "conceptual_design_proposal",
+        "confidence": "low",
+        "geometry_role": "design_proposal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3455,
+          39.975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCN-003",
+      "properties": {
+        "id": "SCN-003",
+        "layer": "SCENARIO_NODES",
+        "scenario_id": "SC3",
+        "name_zh": "环境传感器网络",
+        "location_zh": "京张公园全段",
+        "source_type": "conceptual_design_proposal",
+        "confidence": "low",
+        "geometry_role": "design_proposal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3475,
+          39.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCN-004",
+      "properties": {
+        "id": "SCN-004",
+        "layer": "SCENARIO_NODES",
+        "scenario_id": "SC4",
+        "name_zh": "AI安全合规沙箱",
+        "location_zh": "众智园数据中心",
+        "source_type": "conceptual_design_proposal",
+        "confidence": "low",
+        "geometry_role": "design_proposal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3475,
+          39.995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCN-005",
+      "properties": {
+        "id": "SCN-005",
+        "layer": "SCENARIO_NODES",
+        "scenario_id": "SC5",
+        "name_zh": "AI艺术共创站",
+        "location_zh": "京张公园5处节点",
+        "source_type": "conceptual_design_proposal",
+        "confidence": "low",
+        "geometry_role": "design_proposal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3475,
+          39.985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCN-006",
+      "properties": {
+        "id": "SCN-006",
+        "layer": "SCENARIO_NODES",
+        "scenario_id": "SC6",
+        "name_zh": "开源贡献可视化",
+        "location_zh": "原点社区AI体验廊",
+        "source_type": "conceptual_design_proposal",
+        "confidence": "low",
+        "geometry_role": "design_proposal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3445,
+          39.972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCN-007",
+      "properties": {
+        "id": "SCN-007",
+        "layer": "SCENARIO_NODES",
+        "scenario_id": "SC7",
+        "name_zh": "AI辅导智慧自习室",
+        "location_zh": "原点社区+高校周边",
+        "source_type": "conceptual_design_proposal",
+        "confidence": "low",
+        "geometry_role": "design_proposal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.35249999999999,
+          39.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCN-008",
+      "properties": {
+        "id": "SCN-008",
+        "layer": "SCENARIO_NODES",
+        "scenario_id": "SC8",
+        "name_zh": "智能健身仓",
+        "location_zh": "京张公园6处",
+        "source_type": "conceptual_design_proposal",
+        "confidence": "low",
+        "geometry_role": "design_proposal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3475,
+          39.965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCN-009",
+      "properties": {
+        "id": "SCN-009",
+        "layer": "SCENARIO_NODES",
+        "scenario_id": "SC9",
+        "name_zh": "无人零售体验店",
+        "location_zh": "大钟寺+原点社区",
+        "source_type": "conceptual_design_proposal",
+        "confidence": "low",
+        "geometry_role": "design_proposal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3505,
+          39.955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCN-010",
+      "properties": {
+        "id": "SCN-010",
+        "layer": "SCENARIO_NODES",
+        "scenario_id": "SC10",
+        "name_zh": "AI音乐共创空间",
+        "location_zh": "大钟寺下沉广场",
+        "source_type": "conceptual_design_proposal",
+        "confidence": "low",
+        "geometry_role": "design_proposal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3475,
+          39.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCN-011",
+      "properties": {
+        "id": "SCN-011",
+        "layer": "SCENARIO_NODES",
+        "scenario_id": "SC11",
+        "name_zh": "数字遗产导览",
+        "location_zh": "京张铁路遗址段",
+        "source_type": "conceptual_design_proposal",
+        "confidence": "low",
+        "geometry_role": "design_proposal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3455,
+          39.978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SCN-012",
+      "properties": {
+        "id": "SCN-012",
+        "layer": "SCENARIO_NODES",
+        "scenario_id": "SC12",
+        "name_zh": "城市数据瞭望台",
+        "location_zh": "众智园制高点",
+        "source_type": "conceptual_design_proposal",
+        "confidence": "low",
+        "geometry_role": "design_proposal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3515,
+          39.998
+        ]
+      }
+    }
+  ]
+}

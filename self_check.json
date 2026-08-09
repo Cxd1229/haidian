@@ -1,0 +1,68 @@
+{
+  "self_check_version": "0.1.0",
+  "checked_at": "2026-08-08T00:00:00Z",
+  "package_type": "professional_design_package",
+  "package_state": "ready_for_review",
+  "results": {
+    "required_files_present": {
+      "status": "pass",
+      "details": "30 files including changelog.md"
+    },
+    "geometry_boundary_valid": {
+      "status": "pass",
+      "details": "Official provisional polygon, ~11.41 km2, 0.1pct deviation"
+    },
+    "land_use_partition": {
+      "status": "pass",
+      "details": "15 non-overlapping grid partitions, 100pct coverage, 0 overlaps, 0 gaps"
+    },
+    "key_areas_calibrated": {
+      "status": "pass",
+      "details": "3 Polygon key areas, 370 ha total vs 368 ha declared, each within 10pct"
+    },
+    "buildings_spatial": {
+      "status": "pass",
+      "details": "8 building footprint Polygons across three key areas"
+    },
+    "all_features_have_confidence": {
+      "status": "pass",
+      "details": "All features in 9 GeoJSON files include confidence field"
+    },
+    "evidence_references_aligned": {
+      "status": "pass",
+      "details": "All proposal evidence tags match actual GeoJSON feature IDs"
+    },
+    "visual_html_images_fixed": {
+      "status": "pass",
+      "details": "visual/index.html uses ../assets/figures/ paths"
+    },
+    "no_false_translation_claim": {
+      "status": "pass",
+      "details": "translation_file removed from manifest.json and proposal.md"
+    },
+    "changelog_present": {
+      "status": "pass",
+      "details": "changelog.md with v1.0 release notes"
+    },
+    "report_html_rendered": {
+      "status": "pass",
+      "details": "Frontmatter stripped, evidence tags converted to span.evidence, correct image paths"
+    },
+    "html_offline": {
+      "status": "pass",
+      "details": "Visual HTML is offline, no CDN/external resources"
+    },
+    "provisional_boundary_disclosed": {
+      "status": "pass",
+      "details": "All provisional geometry labeled in proposal and sources.json"
+    }
+  },
+  "warnings": [
+    "All geometry uses provisional boundaries; replace with official CAD/GIS when available",
+    "Building GFA/FAR are conceptual estimates pending regulatory plan data",
+    "Report HTML manually rendered; official render_proposal_html.py unavailable due to missing script dependencies",
+    "A3/A0 PDFs programmatically generated; professional layout would improve presentation",
+    "Key area total 370 ha vs 368 ha declared (+0.4pct); fine-tuning pending official polygon"
+  ],
+  "blockers": []
+}
